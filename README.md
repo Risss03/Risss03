@@ -1,14 +1,12 @@
-### Hi there 👋
+### Hi👋 i'm Aris
 
-Perkenalkan nama saya **Aris**.<br>
+I am a **Student Front-End and Back-End Developer** at [Dicoding](https://www.dicoding.com/).<br>
 
-Saya seorang **Pelajar di Front-End dan Back-End Developer** di [Dicoding](https://www.dicoding.com/).<br>
+I am currently taking a Front-End and Back-End Developer class in Dicoding.<br>
 
-Saya sedang Mengikuti kelas Front-End dan Back-End Developer di Dicoding.<br>
+I am a student at one of the Technology Campuses in Bandung, namely **Sekolah Tinggi Teknologi Bandung**
 
-Saya Seorang Mahasiswa di salah satu Kampus Teknologi yang ada di Bandung yaitu **Sekolah Tinggi Teknologi Bandung**
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/aris034)ku ya.
+If you are interested in getting to know me, please follow my [Linkedin] account (www.linkedin.com/in/aris034).
 <p align="left">
 <a href="https://github.com/Risss03">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
